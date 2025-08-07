@@ -37,6 +37,7 @@ This project demonstrates the application of machine learning techniques to pred
 1. Clone the repository:
 ```bash
 git clone https://github.com/ton-utilisateur/ton-projet.git
+```
 cd ton-projet
 2. Install dependencies listed in `requirements.txt`.
 3. Place the dataset file Telco-Customer-Churn.csv in the project folder.
